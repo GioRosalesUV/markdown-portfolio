@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Welcome to GioRosales portfolio, this is a header example.
+## This is a subheader
