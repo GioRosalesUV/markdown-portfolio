@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### Things that I like to do
+* Listen to music.
+* Learn and practice new activities.
+* Practice soccer ⚽.
+  * Middlefielder is my position.
+* Prepare Coffee ❤️
